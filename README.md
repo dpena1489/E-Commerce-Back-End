@@ -50,6 +50,8 @@ My GitHub Profile: [Daisy P.](https://github.com/dpena1489)
 
 ## Walkthrough video
 
+https://github.com/dpena1489/E-Commerce-Back-End/assets/150938385/50cca575-bf37-44ff-89c3-874b03b49441
 
-https://github.com/dpena1489/E-Commerce-Back-End/assets/150938385/66e3d8ac-1ea9-4115-a754-e7eae79eb7bf
+
+
 
